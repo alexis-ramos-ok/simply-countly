@@ -1,6 +1,6 @@
 # Simply Countly
 
-![Vista previa del proyecto](https://github.com/alexis-ramos-ok/simply-countly/raw/main/public/screen-main-sc.png)
+<img src="https://github.com/alexis-ramos-ok/simply-countly/raw/main/public/screen-main-sc.png" alt="Vista previa del proyecto" width="400"/>
 
 Este proyecto fue desarrollado como parte del curso Desarrollador ReactJS impartido por la UTN FRBA a través de Argentina Programa 4.0. La aplicación, llamada Simply Countly, es un contador interactivo con diseño responsive.
 
