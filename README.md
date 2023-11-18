@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Simply Countly
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Vista previa del proyecto](https://github.com/alexis-ramos-ok/simply-countly/raw/main/public/screen-main-sc.png)
 
-## Available Scripts
+Este proyecto fue desarrollado como parte del curso Desarrollador ReactJS impartido por la UTN FRBA a través de Argentina Programa 4.0. La aplicación, llamada Simply Countly, es un contador interactivo con diseño responsive.
 
-In the project directory, you can run:
+## Contenido
 
-### `npm start`
+- [Demostración](#demostración)
+- [Descripción](#descripción)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribuciones](#contribuciones)
+- [Licencia](#licencia)
+- [Contacto](#contacto)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Demostración
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[Enlace a la demostración del proyecto](https://simply-countly.netlify.app/)
 
-### `npm test`
+## Descripción
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Simply Countly es un contador interactivo desarrollado con React y Chakra UI. La aplicación cuenta con un header, un screen, un pad de botones y un footer. Cumple con la consigna de desarrollar un contador responsive utilizando Chakra UI y useState.
 
-### `npm run build`
+## Tecnologías Utilizadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
+[![Chakra UI](https://img.shields.io/badge/Chakra_UI-Latest-green)](https://chakra-ui.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-10.16.5-orange)](https://www.framer.com/motion/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Consulta el archivo [package.json](https://github.com/alexis-ramos-ok/simply-countly/blob/main/package.json) para obtener la lista completa de dependencias.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Instalación
 
-### `npm run eject`
+1. Clona el repositorio: `git clone https://github.com/tuusuario/simply-countly.git`
+2. Navega al directorio del proyecto: `cd simply-countly`
+3. Instala las dependencias: `npm install`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Uso
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Inicia la aplicación: `npm start`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+La aplicación estará disponible en [http://localhost:3000](http://localhost:3000) en tu navegador.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contribuciones
 
-## Learn More
+- Si deseas contribuir, por favor abre un problema antes de enviar un pull request.
+- Todas las contribuciones son bienvenidas.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Licencia
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Este proyecto está bajo la licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
-### Code Splitting
+## Contacto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Si tienes preguntas o sugerencias, no dudes en contactarme:
 
-### Analyzing the Bundle Size
+- Nombre: Alexis Ramos
+- Correo electrónico: alexleaderhere@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+¡Gracias por explorar Simply Countly! Espero que disfrutes de la experiencia del contador y encuentres útiles las funcionalidades implementadas!
