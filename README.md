@@ -17,7 +17,7 @@ Este proyecto fue desarrollado como parte del curso Desarrollador ReactJS impart
 
 ## Demostración
 
-[Enlace a la demostración del proyecto](https://simply-countly.netlify.app/)
+[Simply Countly App Deploy](https://simply-countly.netlify.app/)
 
 ## Descripción
 
